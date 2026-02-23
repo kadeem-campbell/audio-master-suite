@@ -1,6 +1,6 @@
 # Audio Master Suite
 
-Small desktop tool that batch-converts audio files into CD friendly WAVs:
+Small desktop tool that batch-converts audio files into CD WAVs, only handles conversion.
 
 - 44.1 kHz
 - 16-bit
@@ -10,8 +10,6 @@ Output folder:
 
 - `~/Desktop/Mastering_Queue`
 - Files are named `Track_01.wav`, `Track_02.wav`, etc
-
-This repo only handles conversion. Burning a disc depends on your OS and drive.
 
 ## Requirements
 
